@@ -5,12 +5,16 @@ body {
     overflow: hidden;
   }
 
-  ul {
-    list-style: none;
-}
 
 li {
     margin-top: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    color: #feda4a;
+    text-decoration: none;
 }
 
 li:hover {
